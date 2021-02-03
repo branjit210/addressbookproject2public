@@ -38,4 +38,4 @@ pipeline {
         }
     }
 }
-#webhook auto build testing
+#webhook auto trigger and build testing
